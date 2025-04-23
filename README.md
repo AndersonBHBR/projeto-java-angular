@@ -11,6 +11,13 @@ Este projeto é uma base simples de integração entre:
 - Adição de novas tarefas em tempo real
 - Comunicação entre front e back via HTTP (JSON)
 
+## Aprendizados
+
+- Integração entre front-end Angular e back-end Java
+- Injeção de dependência com HttpClient
+- Estrutura modular de projeto fullstack
+- Deploy e versionamento com Git e GitHub
+
 ## Como executar
 
 ### Backend (Java)
